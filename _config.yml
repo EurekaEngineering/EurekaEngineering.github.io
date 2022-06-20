@@ -1,0 +1,65 @@
+url: eurekaengineering.github.io
+baseurl: /eurekaengineering.github.io
+
+# Site settings
+title: Eureka Engineering
+email: info@eurekaengineering.com.hk
+description: "Hong Kong Fitting Out Expert."
+
+
+# Team names, titles and social links
+people:
+- name: person 1
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: person 2
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: person 2
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 2214, Wellborne Commercial Centre,
+  - line: 8 Java Road, North Point, Hong Kong 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
