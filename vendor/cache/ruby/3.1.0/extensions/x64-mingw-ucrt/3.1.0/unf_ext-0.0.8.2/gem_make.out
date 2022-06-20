@@ -1,0 +1,17 @@
+current directory: D:/website/EurekaEngineering.github.io/vendor/cache/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 -r ./siteconf20220620-3628-98y3jy.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: D:/website/EurekaEngineering.github.io/vendor/cache/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: D:/website/EurekaEngineering.github.io/vendor/cache/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\=
+generating unf_ext-x64-mingw-ucrt.def
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: D:/website/EurekaEngineering.github.io/vendor/cache/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20220620-3628-9035xr
